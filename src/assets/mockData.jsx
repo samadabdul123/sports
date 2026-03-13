@@ -1,21 +1,21 @@
-import Image1 from './Images/Redmi.png'
-import Image2 from './Images/Air-pods.png'
-import Image3 from './Images/Laptops.png'
-import Image4 from './Images/wearable.png'
-import Image5 from './Images/Charger.png'
-import Image6 from './Images/HeadPhones.png'
-import Image7 from './Images/HeadPhones.png'
-import Image8 from './Images/robot.jpeg'
-import Image9 from './Images/Bluetooth.png'
-import Image10 from './Images/SmartTV.png'
+import Image1 from './Images/Football.png'
+import Image2 from './Images/Bat.png'
+import Image3 from './Images/Sports-Shoes.png'
+import Image4 from './Images/Tennis-Rackets.png'
+import Image5 from './Images/Dumbbells.png'
+import Image6 from './Images/Yoga-Mat.png'
+import Image7 from './Images/Gloves.png'
+import Image8 from './Images/Jump-Rope.png'
+import Image9 from './Images/BasketBall.png'
+import Image10 from './Images/Hockey.png'
 
 export const Categories = [
-    "Smart Phones",
-    "Smart Watches",
-    "Laptops",
-    "Air pods",
-    "Charger",
-    "Bluetooths",
+    "Sports Wear",
+  "Sports Shoes",
+  "Fitness Equipment",
+  "Gym Accessories",
+  "Cricket Gear",
+  "Football Gear"
 ];
 
 export const mockData = [

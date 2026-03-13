@@ -4,15 +4,13 @@ const About = () => (
   <section className="bg-gray-50 py-16">
     <div className="container mx-auto px-4 md:px-16 lg:px-24 flex flex-col md:flex-row items-center">
       <div className="md:w-1/2 mb-8 md:mb-0 md:pr-12">
-        <h2 className="text-4xl font-bold mb-4">About Electronic Shop</h2>
+        <h2 className="text-4xl font-bold mb-4">About Sports Shop</h2>
         <p className="text-gray-700 mb-6 leading-relaxed">
-          At Electronic Shop, we believe in bringing quality electronics to your doorstep—seamlessly.
-          With years of experience and a passion for innovation, our mission is to offer
-          the best products paired with exceptional service.
+         At Sports Shop, we believe in bringing high-quality sports gear right to your doorstep—seamlessly.
+         With years of experience and a passion for sports, our mission is to provide the best equipment and apparel paired with exceptional service.
         </p>
         <p className="text-gray-700">
-          From smart devices to home essentials, we curate every item
-          to ensure reliability, value, and convenience.
+          From sports equipment to fitness essentials, we carefully select every item to ensure quality, durability, and performance.
         </p>
       </div>
       <div className="md:w-1/2 flex justify-center">

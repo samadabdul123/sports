@@ -1,6 +1,6 @@
 import React, { use, useEffect } from "react";
 import { Categories, mockData } from "../assets/mockData";
-import HeroImage from "../assets/Images/hero-page.png";
+import HeroImage from "../assets/Images/Hero-Section.png";
 import InfoSection from "../components/InfoSection";
 import CategorySection from "../components/CategorySection";
 import { setProducts } from "../redux/productSlice";
@@ -38,8 +38,8 @@ const Home = () => {
           <div className="w-full md:w-9/12 mt-8 md:mt-0 h-96 relative">
             <img src={HeroImage} alt="" className="h-full w-full" />
             <div className="absolute top-16 left-8 ">
-              <p className="text-gray-600 mb-4">Samad | Electronic shop</p>
-              <h2 className="text-3xl font-bold">WELCOME TO ELECTRONIC SHOP</h2>
+              <p className="text-gray-600 mb-4">Samad | Sports shop</p>
+              <h2 className="text-3xl font-bold">WELCOME TO SPORTS SHOP</h2>
               <p className="text-xl mt-2.5 font-bold text-gray-800">MILLIONS+ PRODUCTS</p>
               <button className="bg-red-600 px-8 py-1.5 text-white mt-4 hover:bg-red-700 transform transition-transform duration-300 hover:scale-105">SHOP NOW</button>
             </div>

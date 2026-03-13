@@ -1,12 +1,12 @@
 import React from 'react';
-import Wearable from '../assets/Images/SmartWatch.png';
-import SmartPhones from '../assets/Images/Mobiles.png';
-import Laptop from '../assets/Images/Laptops.png';
+import Wearable from '../assets/Images/Wearable.png';
+import Equipments from '../assets/Images/Equipments.png';
+import  Shoes from '../assets/Images/Sports-Shoes.png';
 
 const categories = [
-  { title: 'Wearable', imageUrl: Wearable },
-  { title: 'Smart Phone', imageUrl: SmartPhones },
-  { title: 'Laptop', imageUrl: Laptop },
+  { title: 'Sports Wear', imageUrl: Wearable },
+  { title: 'Fitness Equipment', imageUrl: Equipments },
+  { title: 'Sports Shoes', imageUrl: Shoes },
 ];
 
 const CategorySection = () => (

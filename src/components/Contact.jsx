@@ -13,7 +13,7 @@ const Contact = () => (
         <div className="space-y-4">
           <div className="flex items-center">
             <FaEnvelope className="text-red-600 mr-3" />
-            <span>support@e-shop.com</span>
+            <span>support@sports-shop.com</span>
           </div>
           <div className="flex items-center">
             <FaPhone className="text-red-600 mr-3" />
