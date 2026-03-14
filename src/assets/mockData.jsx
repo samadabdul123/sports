@@ -1,13 +1,13 @@
-import Image1 from './Images/Football.png'
-import Image2 from './Images/Bat.png'
-import Image3 from './Images/Sports-Shoes.png'
-import Image4 from './Images/Tennis-Rackets.png'
-import Image5 from './Images/Dumbbells.png'
-import Image6 from './Images/Yoga-Mat.png'
-import Image7 from './Images/Gloves.png'
-import Image8 from './Images/Jump-Rope.png'
-import Image9 from './Images/BasketBall.png'
-import Image10 from './Images/Hockey.png'
+import Image1 from './images/football.png'
+import Image2 from './images/bat.png'
+import Image3 from './images/sports-shoes.png'
+import Image4 from './images/tennis-rackets.png'
+import Image5 from './images/dumbbells.png'
+import Image6 from './images/yoga-mat.png'
+import Image7 from './images/gloves.png'
+import Image8 from './images/jump-rope.png'
+import Image9 from './images/basketball.png'
+import Image10 from './images/hockey.png'
 
 export const Categories = [
     "Sports Wear",

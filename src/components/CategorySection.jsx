@@ -1,7 +1,7 @@
 import React from 'react';
-import Wearable from '../assets/Images/Wearable.png';
-import Equipments from '../assets/Images/Equipments.png';
-import  Shoes from '../assets/Images/Sports-Shoes.png';
+import Wearable from '../assets/images/wearable.png';
+import Equipments from '../assets/images/equipments.png';
+import  Shoes from '../assets/images/sports-shoes.png';
 
 const categories = [
   { title: 'Sports Wear', imageUrl: Wearable },
