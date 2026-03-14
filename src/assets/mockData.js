@@ -1,4 +1,4 @@
-import Image1 from './images/football.png'
+import Image1 from './images/Football.png'
 import Image2 from './images/bat.png'
 import Image3 from './images/sports-shoes.png'
 import Image4 from './images/tennis-rackets.png'
